@@ -1,0 +1,13 @@
+The dataset chosen is the Titanic dataset which contains the data of the passengers that sailed on the ship
+
+titanic.csv is the original file, however it has missing values
+input.csv is a cleaned file with column names removed, all the java code has been run against this file
+
+Questions:
+1. Count survived column, where 1 is survived and 0 is not survived
+2. Avg age gender wise (key - gender Text, value - age IntWritable)
+3. Highest fare per class (key - class IntWritable, value - fare FloatWritable)
+4. Count embarked at which city: Southampton, Cherbourg, and Queenstown
+
+
+
